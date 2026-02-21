@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "timestamp": "2026-02-21T21:14:39.123778",
+    "questions_asked": 45,
+    "demo_mode": false
+  },
+  "results": {
+    "stage_1": {
+      "field": "Technology",
+      "confidence": 11.3,
+      "all_fields": {
+        "Technology": 11.3,
+        "Science": 11.23,
+        "Environment & Agriculture": 10.65,
+        "Trades & Engineering": 10.36,
+        "Medicine & Health": 9.98,
+        "Law & Social Sciences": 9.96,
+        "Arts & Humanities": 9.57,
+        "Sports & Physical": 9.27,
+        "Commerce & Business": 9.08,
+        "Education": 8.61
+      }
+    },
+    "stage_2": {
+      "subfield": "Artificial Intelligence & Data",
+      "confidence": 17.57,
+      "all_subfields": {
+        "Artificial Intelligence & Data": 17.57,
+        "Hardware & Electronics": 17.53,
+        "Software Development": 17.25,
+        "Cybersecurity": 16.78,
+        "Cloud & DevOps": 16.31,
+        "UX & Product Design": 14.57
+      }
+    },
+    "stage_3": {
+      "specialization": "AI Research",
+      "confidence": 17.24,
+      "tools": [
+        "LaTeX",
+        "PyTorch",
+        "HPC clusters",
+        "arXiv"
+      ],
+      "all_specs": {
+        "AI Research": 17.24,
+        "Machine Learning Engineering": 17.08,
+        "Deep Learning & NLP": 16.75,
+        "Data Science & Analytics": 16.43,
+        "Computer Vision": 16.3,
+        "Data Engineering": 16.2
+      }
+    }
+  },
+  "trait_profile": {
+    "apt": 0.5361111111111111,
+    "O": 0.5152777777777777,
+    "C": 0.5361111111111111,
+    "E": 0.5083333333333333,
+    "A": 0.5055555555555555,
+    "stab": 0.5041666666666667,
+    "R": 0.5263888888888889,
+    "I": 0.5986111111111111,
+    "Art": 0.5166666666666667
+  },
+  "ai_analysis": {
+    "narrative": "Your assessment reveals a strong alignment with AI Research within Artificial Intelligence & Data (Technology). Your investigative drive, combined with your aptitude scores, suggests you are well-suited for analytical and problem-solving work in this domain. Your personality profile shows a balance of curiosity and conscientiousness that are key differentiators in this specialization.",
+    "why_this_path": "The convergence of your RIASEC profile, Big Five personality dimensions, and aptitude scores consistently points toward AI Research. Your strongest trait signals create a profile that fits the demands and culture of this career path exceptionally well.",
+    "strengths": [
+      "Strong analytical and pattern-recognition capacity",
+      "Ability to sustain focus on complex problems",
+      "Curiosity-driven learning mindset",
+      "Structured approach to tasks and deliverables"
+    ],
+    "growth_areas": [
+      "Broaden exposure to adjacent disciplines for cross-functional thinking",
+      "Invest in communication skills to articulate technical ideas clearly",
+      "Seek collaborative experiences to complement independent work style"
+    ],
+    "key_insight": "You are built for AI Research \u2014 trust the data and your instincts equally.",
+    "source": "fallback (Ollama unavailable)"
+  }
+}

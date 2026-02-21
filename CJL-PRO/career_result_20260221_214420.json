@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "timestamp": "2026-02-21T21:44:20.827619",
+    "questions_asked": 45,
+    "demo_mode": false
+  },
+  "results": {
+    "stage_1": {
+      "field": "Sports & Physical",
+      "confidence": 11.65,
+      "all_fields": {
+        "Sports & Physical": 11.65,
+        "Trades & Engineering": 11.17,
+        "Environment & Agriculture": 10.27,
+        "Technology": 10.0,
+        "Education": 9.93,
+        "Law & Social Sciences": 9.89,
+        "Commerce & Business": 9.72,
+        "Arts & Humanities": 9.4,
+        "Science": 9.01,
+        "Medicine & Health": 8.98
+      }
+    },
+    "stage_2": {
+      "subfield": "Outdoor & Adventure Education",
+      "confidence": 21.01,
+      "all_subfields": {
+        "Outdoor & Adventure Education": 21.01,
+        "Professional Athletics": 20.77,
+        "Coaching & Sports Science": 20.77,
+        "Physiotherapy & Rehabilitation": 19.44,
+        "Nutrition & Dietetics": 18.01
+      }
+    },
+    "stage_3": {
+      "specialization": "Applied Practice",
+      "confidence": 36.63,
+      "tools": [
+        "Industry software",
+        "Case management",
+        "Communication"
+      ],
+      "all_specs": {
+        "Applied Practice": 36.63,
+        "Core Track": 31.76,
+        "Research & Theory": 31.61
+      }
+    }
+  },
+  "trait_profile": {
+    "apt": 0.5027777777777778,
+    "O": 0.5,
+    "C": 0.5013888888888889,
+    "E": 0.5333333333333333,
+    "A": 0.5222222222222223,
+    "stab": 0.5,
+    "R": 0.5152777777777777,
+    "I": 0.5,
+    "Art": 0.49444444444444446
+  },
+  "ai_analysis": {
+    "narrative": "Your assessment reveals a strong alignment with Applied Practice within Outdoor & Adventure Education (Sports & Physical). Your investigative drive, combined with your aptitude scores, suggests you are well-suited for analytical and problem-solving work in this domain. Your personality profile shows a balance of curiosity and conscientiousness that are key differentiators in this specialization.",
+    "why_this_path": "The convergence of your RIASEC profile, Big Five personality dimensions, and aptitude scores consistently points toward Applied Practice. Your strongest trait signals create a profile that fits the demands and culture of this career path exceptionally well.",
+    "strengths": [
+      "Strong analytical and pattern-recognition capacity",
+      "Ability to sustain focus on complex problems",
+      "Curiosity-driven learning mindset",
+      "Structured approach to tasks and deliverables"
+    ],
+    "growth_areas": [
+      "Broaden exposure to adjacent disciplines for cross-functional thinking",
+      "Invest in communication skills to articulate technical ideas clearly",
+      "Seek collaborative experiences to complement independent work style"
+    ],
+    "key_insight": "You are built for Applied Practice \u2014 trust the data and your instincts equally.",
+    "source": "fallback (Ollama unavailable)"
+  }
+}
